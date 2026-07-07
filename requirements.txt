@@ -1,1 +1,5 @@
-stremealit
+Plaintext
+streamlit
+pandas
+matplotlib
+seaborn
